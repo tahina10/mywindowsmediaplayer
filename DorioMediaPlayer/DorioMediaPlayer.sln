@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DorioMediaPlayer", "DorioMediaPlayer\DorioMediaPlayer.csproj", "{3d62e971-f68b-425f-98d4-d1210444ca1a}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D62E971-F68B-425F-98D4-D1210444CA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D62E971-F68B-425F-98D4-D1210444CA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D62E971-F68B-425F-98D4-D1210444CA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D62E971-F68B-425F-98D4-D1210444CA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
